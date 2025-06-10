@@ -119,12 +119,13 @@ a {
 }
 
 .box-2 {
-  height: 500px;
+  height: 600px;
   width: 100%;
 }
 
 .box-3 {
-  height: 450px;
+  height: 550px;
+
 }
 
 .hero {
@@ -181,6 +182,18 @@ a {
 .big-box {
   height: 550px;
   background-color: green;
+}
+
+
+main h3 {
+  font-size: 4rem;
+  text-align: left;
+}
+
+main p {
+  margin-top: 10px;
+  font-size: 1.5rem;
+  text-align: left;
 }
 
 /* Colori background*/
