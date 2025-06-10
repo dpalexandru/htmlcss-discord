@@ -34,6 +34,7 @@
 
 .width-800 {
   width: 1200px;
+
 }
 
 .width-600 {
@@ -118,12 +119,12 @@ a {
 }
 
 .box-2 {
-  height: 400px;
+  height: 500px;
   width: 100%;
 }
 
 .box-3 {
-  height: 350px;
+  height: 450px;
 }
 
 .hero {
@@ -159,6 +160,7 @@ a {
   padding: 15px 20px;
   margin: 20px;
   border-radius: 30px;
+  font-size: 20px;
 }
 
 .bgc-white {
