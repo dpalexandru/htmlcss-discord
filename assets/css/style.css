@@ -289,6 +289,7 @@ hr {
   align-items: flex-end;
   justify-content: center;
   padding-top: 20px;
+  padding-bottom: 50px;
 }
 
 .footer-menu {
@@ -310,6 +311,7 @@ footer h5 {
 
 footer img {
   height: 25px;
+  width: 30px;
 }
 
 footer .lingua {
@@ -320,8 +322,6 @@ footer .lingua {
 .icone-social {
   font-size: 25px;
   color: white;
-
-
 }
 
 .icone-social i {
@@ -344,4 +344,9 @@ footer ul li {
   background-color: #788DDF;
   padding: 10px 15px;
   border-radius: 30px;
+}
+
+.footer-info img {
+  height: auto;
+  width: 120px;
 }
