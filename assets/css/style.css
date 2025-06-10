@@ -327,3 +327,12 @@ footer .lingua {
   margin-left: 0;
   margin-right: 25px;
 }
+
+.title {
+  color: #788DDF;
+}
+
+footer ul li {
+  font-size: 22px;
+  margin-top: 15px;
+}
