@@ -33,7 +33,7 @@
 }
 
 .width-800 {
-  width: 800px;
+  width: 1200px;
 }
 
 .width-600 {
@@ -74,13 +74,18 @@ header {
   height: 70px;
   text-align: center;
   display: flex;
+  background-color: #3260E0;
+
 
 }
 
 .header-info {
-  background-color: #DAA51E;
+  background-color: #3260E0;
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  color: white;
+  font-size: 18px;
 
 }
 
@@ -89,7 +94,15 @@ li,
 a {
   display: inline-block;
   text-decoration: none;
-  margin: 0 10px;
+  margin: 0 8px;
+  color: white;
+}
+
+.accedi-button {
+  background-color: white;
+  color: black;
+  padding: 12px;
+  border-radius: 25px;
 }
 
 /* main */
