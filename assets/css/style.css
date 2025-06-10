@@ -197,6 +197,11 @@ main p {
 }
 
 /* Colori background*/
+
+.bg-transparent {
+  background-color: transparent;
+}
+
 .bg-blu {
   background-color: #00018B;
 }
