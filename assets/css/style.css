@@ -174,13 +174,20 @@ a {
   color: white;
 }
 
+.bgc-lightblue {
+  background-color: #8FA3E1;
+  color: white;
+  padding: 15px 40px;
+  font-size: 25px;
+}
+
 .box-4 {
-  height: 600px;
+  height: 1000px;
 }
 
 
 .big-box {
-  height: 550px;
+  height: 900px;
   background-color: green;
 }
 
@@ -195,6 +202,26 @@ main p {
   font-size: 1.5rem;
   text-align: left;
 }
+
+.box-4 h3 {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.box-4 p {
+  text-align: center;
+}
+
+.big-box img {
+  display: block;
+  margin: 0 auto;
+}
+
+.stars {
+  margin: 20px auto;
+}
+
+
 
 /* Colori background*/
 
