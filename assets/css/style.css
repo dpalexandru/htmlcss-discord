@@ -1,0 +1,185 @@
+/*Reset*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*Utility riutilizzabili*/
+
+.colonna-20 {
+  width: 20%;
+}
+
+.colonna-60 {
+  width: 60%;
+
+}
+
+.colonna-65 {
+  width: 65%;
+}
+
+.colonna-35 {
+  width: 35%;
+}
+
+.colonna-15 {
+  width: 15%;
+}
+
+.colonna-40 {
+  width: 40%;
+}
+
+.width-800 {
+  width: 800px;
+}
+
+.width-600 {
+  width: 600px;
+}
+
+.height {
+  height: 100px;
+}
+
+.bordo-dotter {
+  border: 2px dotted black;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-left {
+  text-align: left;
+
+}
+
+.padding5 {
+  padding: 10px
+}
+
+.align-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*Header*/
+
+header {
+  background-color: #ADD8E7;
+  height: 70px;
+  text-align: center;
+  display: flex;
+
+}
+
+.header-info {
+  background-color: #DAA51E;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+ul,
+li,
+a {
+  display: inline-block;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+/* main */
+
+
+.box-1 {
+  height: 300px;
+  width: 100%;
+  display: flex;
+}
+
+.box-2 {
+  height: 400px;
+  width: 100%;
+}
+
+.box-3 {
+  height: 350px;
+}
+
+.hero {
+  background-color: #EF82ED;
+  height: 250px;
+}
+
+.box-4 {
+  height: 600px;
+}
+
+
+.big-box {
+  height: 550px;
+  background-color: green;
+}
+
+/* Colori background*/
+.bg-blu {
+  background-color: #00018B;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.bg-azzurro {
+  background-color: #1D90FF;
+}
+
+.bg-pink {
+  background-color: #FFC1CA;
+}
+
+.bg-gray {
+  background-color: #D3D3D3;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.bg-chocolate {
+  background-color: chocolate;
+}
+
+.bg-lightblue {
+  background-color: #22B3AA;
+}
+
+/*footer*/
+
+hr {
+  border: 1px solid gray;
+}
+
+.footer-buttom {
+  background-color: black;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.footer-menu {
+  height: 50px;
+  background-color: #7FFFD4;
+  justify-content: space-between;
+
+}
+
+.footer-info {
+  padding: 2px;
+  background-color: #FEB6C3;
+}
