@@ -301,3 +301,29 @@ hr {
   padding: 2px;
   background-color: #FEB6C3;
 }
+
+footer h5 {
+  font-size: 4rem;
+  color: #788DDF;
+  margin-bottom: 30px;
+}
+
+footer img {
+  height: 25px;
+}
+
+footer .lingua {
+  font-size: 25px;
+}
+
+.icone-social {
+  font-size: 25px;
+
+
+}
+
+.icone-social i {
+  margin-top: 30px;
+  margin-left: 0;
+  margin-right: 25px;
+}
