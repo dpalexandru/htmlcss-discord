@@ -157,9 +157,8 @@ a {
 }
 
 .cta-action {
-
+  margin-top: 50px;
   padding: 15px 20px;
-  margin: 20px;
   border-radius: 30px;
   font-size: 20px;
 }
@@ -184,6 +183,7 @@ a {
 }
 
 .action-botton {
+  margin-top: 45px;
   display: flex;
   justify-content: center;
 }
@@ -194,7 +194,7 @@ a {
 
 
 .big-box {
-  height: 900px;
+  height: 800px;
   background-color: green;
 }
 
@@ -234,6 +234,7 @@ main p {
   background-image: url('/assets/img/stars.svg');
   background-size: cover;
   background-repeat: no-repeat;
+  line-height: 120px;
 }
 
 
